@@ -3,7 +3,7 @@
     "version": "0.4.1",
     "description": "Created based on the NameCaseLib library (https://github.com/seagullua/NameCaseLib). NameCaseLib is a PHP library designed for automatic declension of full names in Russian and Ukrainian. A unique feature is that the library\ncontains the same methods for working with full names in Russian and Ukrainian.",
     "type": "library",
-    "license": "MIT and GPL Version 2 licenses",
+    "license": "MIT",
     "homepage": "http://namecaselib.com",
     "support": {
         "wiki": "http://namecaselib.com/book/",
