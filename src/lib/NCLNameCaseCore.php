@@ -805,7 +805,7 @@ class NCLNameCaseCore extends NCL
     {
         $this->AllWordCases();
 
-        return $this->getCasesConnected($this->words['N'], $number);
+        return $this->getCasesConnected($this->index['N'], $number);
     }
 
     /**
