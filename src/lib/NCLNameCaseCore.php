@@ -1,5 +1,6 @@
 <?php
 namespace nomelodic\NCL\lib;
+use nomelodic\NCL\NCLNameCaseRu;
 
 /**
  * @license Dual licensed under the MIT or GPL Version 2 licenses.
